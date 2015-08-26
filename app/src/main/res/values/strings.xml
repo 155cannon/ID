@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">身份证归属地信息查询</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
